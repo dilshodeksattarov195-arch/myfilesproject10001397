@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerualculate",
+        "uuid": 1232154,
+        "checksum": "l6xqh"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
